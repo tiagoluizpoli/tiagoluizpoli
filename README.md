@@ -31,7 +31,8 @@ I live in São Paulo - Brazil.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoluizpoli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoluizpoli)](https://github.com/anuraghazra/github-readme-stats)
 
 ## _You can reach me throughout the following channels_
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Gmail")](mailto:tiagoluizpoli@gmail.com)
@@ -43,6 +44,8 @@ I live in São Paulo - Brazil.
 
 #### Go ahead, give me a chance!
 ###### I'm pretty sure you won't regret! 😺
+
+
 
 
 
