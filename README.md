@@ -4,7 +4,7 @@ I'm Tiago and i'm 31 years old.
 I live in São Paulo - Brazil.  
 - 💕 Father of two beautiful daughters and husband of the most amazing woman God coud ever give me!    
 - 🎸 Moved my music, specially Gospel Rock! its like fuel to my soul \*-\*  
-- ⚫ C# Windows Forms developer by heart [🖤] and now i'm expanding to the amazing world of the Web as a React front-end Developer.  
+- ⚫ C# Windows Forms developer by heart [🖤] and now i'm expanding to the amazing world of the Web as a React + Node JS Fullstack Developer.  
 - 🟢 I'm a very fast learner (by choice and curiosity) and i think i can handle anything throuwn at me!  
 (and belive me, i've faced some cruel situations along my carrear! haha)
 - 🤝 I'm also very fond of teamwork (In my oppinion its always better and faster to help and get helped! Plus it make it easier to learn new stuff)
