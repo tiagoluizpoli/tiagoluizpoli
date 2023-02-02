@@ -14,7 +14,7 @@ I live in São Paulo - Brazil.
   
   
 
-## Below you can find the Languages and Tools i'm currently familiar with (respectively)
+## Below you can find the Languages and Tools i'm currently familiar with.
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
